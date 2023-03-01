@@ -1,3 +1,3 @@
-https://youtu.be/r22untNsos4
-https://youtu.be/Kh4H2_vmjQk
-https://youtu.be/KgCxliHUZV8
+1. 2D моделирование движение потока в канале с препятствиями. Поле модулей скоростей. https://youtu.be/r22untNsos4
+2. 2D моделирование движение потока в канале с препятствиями. Векторное поле скоростей. https://youtu.be/Kh4H2_vmjQk
+3. 2D моделирование движение потока в канале с препятствиями. Поле давлений. https://youtu.be/KgCxliHUZV8
